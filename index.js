@@ -7,6 +7,10 @@ const mahasiswa = [
     nama:"azman",
     nim:12
   },
+  {
+    nama:"sandhika",
+    nim:99
+ }
 
 ];
 
